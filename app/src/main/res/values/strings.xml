@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IFTTT Example</string>
+    <string name="configure_ifttt">Setup IFTTT</string>
+    <string name="title_activity_configure_ifttt">ConfigureIFTTT</string>
 </resources>

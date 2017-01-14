@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/main_menu"
+        android:title="Place Holder"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_toc_black_24dp">
+
+        <menu>
+            <item android:id="@+id/action_home"
+                android:title="Home" />
+            <item android:id="@+id/action_configure_ifttt"
+                android:title="Configure IFTTT" />
+        </menu>
+
+    </item>
+</menu>
